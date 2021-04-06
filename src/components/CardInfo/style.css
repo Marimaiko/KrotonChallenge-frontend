@@ -1,0 +1,51 @@
+.card-info{
+    width: 720px;
+    height: 240px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    justify-content: space-between;
+    display: inline-flex;
+}
+
+.card-info img{
+    height: 180px;
+    width: 125px;
+    margin-left: 35px;
+}
+
+.card-info button{
+    background-color:#0067F6;
+    width: 275px;
+    height: 55px;
+    margin:25px;
+    color:#FFFFFF;
+    border-style: none;
+
+    font-family: Roboto;
+    font-size: 18px;
+    line-height: 16px;
+
+    cursor: pointer;
+}
+
+.botao-info{
+    align-items: flex-end;
+    display: flex;
+}
+
+@media only screen and (max-device-width:900px) {
+    .card-info{
+        width: 320px;
+    }
+    .card-info img{
+        height: 120px;
+        width: 100px;
+        margin-left: 35px;
+    }
+    .card-info button{
+        width: 200px;
+        height: 55px;
+        margin:25px;
+    }
+}

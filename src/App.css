@@ -1,0 +1,25 @@
+@media only screen and (max-device-width:900px) {
+  *{
+    flex-wrap: wrap;
+  }
+}
+
+.cards-info{
+  display: flex;
+  justify-content: space-between;
+  margin-left: 32px;
+  margin-right: 32px;
+}
+
+.thumbnail-cards{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+a{
+  justify-content:center;
+  display:flex;
+  color: #FFAD01;
+  margin: 30px;
+}

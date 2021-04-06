@@ -1,0 +1,15 @@
+.contactsHeader{
+    background-color: #FFFFFF;
+    height: 87px;
+    box-shadow: 1px 1px 1px gray;
+    width: 100%;
+}
+.whatsapp{
+    justify-content: flex-end;
+    display: flex;
+    padding-right: 20px;
+}
+
+
+
+

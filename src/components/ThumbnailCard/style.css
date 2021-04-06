@@ -1,0 +1,31 @@
+.main-BoxCards{
+    margin-top: 10px;
+    margin-left: 32px;
+    margin-right: 32px;
+    background-color: #FFFFFF;
+    width: 410px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.cards{
+    width: 300px;
+}
+
+.cards img{
+    width: 85%;
+    border-radius: 10px;
+    justify-content: center;
+    display: flex;
+    padding-right: 0%;
+}
+
+.cards button{
+    width: 100%;
+    border-color: #0067F6;
+    color: #0067F6;
+    background-color:#FFFFFF;
+    height: 35px;
+    border-radius: 10px;
+}

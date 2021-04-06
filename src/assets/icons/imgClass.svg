@@ -1,0 +1,10 @@
+/* Rectangle 270 */
+
+position: absolute;
+width: 292px;
+height: 182px;
+left: 32px;
+top: 614px;
+
+background: url(javier-trueba-iQPr1XkF5F0-unsplash.jpg);
+border-radius: 8px 8px 0px 0px;
